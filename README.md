@@ -27,7 +27,6 @@ This project was built as part of a hands-on ML workshop covering the complete p
 |---|---|
 | 🚀 **Live Streamlit App** | [AQI Predictor · Streamlit](https://aqi-predictor-6dceqbqcbi9bfewzuyxttc.streamlit.app/) |
 | 📓 **Training Notebook** | [AQI_Prediction_Final.ipynb · Google Colab](https://colab.research.google.com/drive/1PKeHwSg4GG__EYvSB6QAHv7taum6YCUF#scrollTo=c-req) |
-| 👨‍💻 **GitHub Profile** | [bhargav-pichikala](https://github.com/bhargav-pichikala) |
 
 ---
 
