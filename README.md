@@ -1,3 +1,14 @@
+## 👨‍💻 About the Author
+
+**Pichikala Kali Bhargav Sai**
+2023BCSE07AED278
+CSE AIML - C
+
+This project was built as part of a hands-on ML workshop covering the complete pipeline — from raw data all the way to a deployed, production-ready web application.
+
+[![GitHub](https://img.shields.io/badge/GitHub-bhargav--pichikala-181717?style=flat-square&logo=github)](https://github.com/bhargav-pichikala)
+
+
 # 🌫️ Air Quality Index (AQI) Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
@@ -17,8 +28,6 @@
 | 🚀 **Live Streamlit App** | [AQI Predictor · Streamlit](https://aqi-predictor-6dceqbqcbi9bfewzuyxttc.streamlit.app/) |
 | 📓 **Training Notebook** | [AQI_Prediction_Final.ipynb · Google Colab](https://colab.research.google.com/drive/1PKeHwSg4GG__EYvSB6QAHv7taum6YCUF#scrollTo=c-req) |
 | 👨‍💻 **GitHub Profile** | [bhargav-pichikala](https://github.com/bhargav-pichikala) |
-
-> ⚠️ **Note:** Replace the Streamlit and Colab URLs above with your actual links once you have them.
 
 ---
 
@@ -169,11 +178,4 @@ bhargav-pichikala/aqi-predictor/
 
 ---
 
-## 👨‍💻 About the Author
 
-**Bhargav Pichikala**
-Student | Passionate about Machine Learning, Data Science and building real-world AI applications.
-
-This project was built as part of a hands-on ML workshop covering the complete pipeline — from raw data all the way to a deployed, production-ready web application.
-
-[![GitHub](https://img.shields.io/badge/GitHub-bhargav--pichikala-181717?style=flat-square&logo=github)](https://github.com/bhargav-pichikala)
