@@ -1,0 +1,27 @@
+{
+  "features": [
+    "PM2.5",
+    "PM10",
+    "NO2",
+    "SO2",
+    "CO",
+    "O3",
+    "City_enc",
+    "month",
+    "dayofweek",
+    "season",
+    "AQI_lag1"
+  ],
+  "city_mapping": {
+    "Ahmedabad": 0,
+    "Amritsar": 1,
+    "Bengaluru": 2,
+    "Chennai": 3,
+    "Delhi": 4,
+    "Gurugram": 5,
+    "Hyderabad": 6,
+    "Lucknow": 7,
+    "Patna": 8,
+    "Visakhapatnam": 9
+  }
+}
